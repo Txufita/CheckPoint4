@@ -27,8 +27,8 @@ print("Dictionary:", my_dict)
 
 # exercise 2
 my_float = 3.14159
-rounded_float = round(my_float)
-print(f"Original float: {my_float}, Rounded: {rounded_float}")
+math.ceil(my_float)
+
 
 
 
