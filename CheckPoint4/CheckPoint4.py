@@ -74,10 +74,11 @@ print("Sorted list:", my_list)
 
 
 
-
 # exercise 9
-my_tuple = my_tuple + ("orange",)
-print("Updated tuple:", my_tuple)
+X = 8
+x += 3
+PRINT(X)
+
 
 
 
